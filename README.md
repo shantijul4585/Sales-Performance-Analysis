@@ -7,12 +7,19 @@ This project presents an interactive sales dashboard built entirely in Microsoft
 
 ## Process
 -Collected raw sales and regional data.
+
 -Cleaned and formatted data for consistency.
+
 -Organized data into tables for analysis.
+
 -Calculated KPIs like Target Hit % and Away From Target %.
+
 -Created PivotTables for Top/Bottom performers.
+
 -Designed interactive charts with slicers for filtering.
+
 -Tested dashboard for accuracy and responsiveness.
+
 -Finalized layout for clarity and usability.
 
 ## Key Performance Indicators (KPIs)
