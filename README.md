@@ -30,6 +30,8 @@ This project presents an interactive sales dashboard built entirely in Microsoft
 
 ## Dashboard View
 - <a href="https://github.com/shantijul4585/Data-Analysis-Dashboard/blob/main/Dashboard%20on%20Sales%20Data.png">View Dashboard</a>
+![Dashboard on Sales Data](https://github.com/user-attachments/assets/d8c55f70-9ea1-4a5f-91b6-a109ab20c553)
+
 
 ## Project Insight
 - The Top 5 Sales Executives consistently exceeded expectations, indicating strong sales strategy and execution.
